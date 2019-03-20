@@ -1,3 +1,4 @@
+//This is my comment
 public class MessageUtil {
 
    private String message;
